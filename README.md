@@ -322,11 +322,15 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 
   <h6>DEMANDAS</h6>
 
-  1. Quais fatores contribuem para o seu surgimento e para o encerramento de suas atividades? 
+  <li>
+  Quais fatores contribuem para o seu surgimento e para o encerramento de suas atividades? 
   Como esforços de institucionalização e formalização dessas organizações se alteraram ao longo do tempo?
   Quais temas ganharam ou perderam relevância em diferentes contextos sociais, econômicos e políticos?
+  </li>
 
-  1. Essa característica da base de dados disponibilizada pela SRFB impõe alguns limites a análises da serie temporal exatamente por não permitir a visualização das alterações de categorização ou classificação das variáveis que caracterizam cada uma das entidades. Não é possível observar, por exemplo, se determinada OSC já esteve classificada em outra natureza jurídica ou área de atuação distinta da classificação atual. Nesse sentido, todos os dados de perfil apresentados na análise se referem à última atualização contida como referência para cada uma das OSCs presentes na base.
+  <li>
+  Essa característica da base de dados disponibilizada pela SRFB impõe alguns limites a análises da serie temporal exatamente por não permitir a visualização das alterações de categorização ou classificação das variáveis que caracterizam cada uma das entidades. Não é possível observar, por exemplo, se determinada OSC já esteve classificada em outra natureza jurídica ou área de atuação distinta da classificação atual. Nesse sentido, todos os dados de perfil apresentados na análise se referem à última atualização contida como referência para cada uma das OSCs presentes na base.
+  </li>
 </details>
 
 <details>
