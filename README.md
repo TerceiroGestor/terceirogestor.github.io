@@ -1,16 +1,17 @@
-## Social ERP/CRM
-**Descrição do projeto**:
+<h2>Social ERP/CRM</h2>
+<h6>Descrição do projeto:</h6>
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
 As instituições sociais carecem de um sistema que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, seus projeção e futuras ações sociais. 
 </p>
 
-**Público Alvo**:
+
+<h6>Público Alvo:</h6>
 <p align="justify">
-Organizaçãos da Sociedade Civil (OSC)
+As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 </p>
 
-[Saiba mais](https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc)
+<a href="https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc">Saiba Mais</a>
 
 <hr/>
 
@@ -286,54 +287,63 @@ Organizaçãos da Sociedade Civil (OSC)
 
 <details>
 <summary>EQUIPE</Summary>
-
- - Repositório:  
- - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
- - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/)
- - Agilista: [Rodrigo Melão](https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/)
- - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Bruno Brito](https://www.linkedin.com/in/brunos-brito/) | [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/)
- - Backend: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/) | [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/)
- - DevOps: [Daniel Tormin](https://www.linkedin.com/in/daniel-tormin-2a91b2173) | [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
- - Data: [Leandro Lopes](https://www.linkedin.com/in/leandrolopes86/) | [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
+<ul>
+  <li>Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a></li>
+  <li>Responsável: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a></li>
+  <li>Product Manager: <a href="https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/">Igor Revelles de Mello</a></li>
+  <li>Agilistas: <a href="https://www.linkedin.com/in/rodrigo-mel%C3%A3o-75506951/">Rodrigo Melão</a></li>
+  <li>DevOps: <a href="https://www.linkedin.com/in/daniel-tormin-2a91b2173">Daniel Tormin</a>, <a href="https://www.linkedin.com/in/lucas-nascimento-32722b160/">Lucas Nascimento</a></li>
+  <li>Data: <a href="https://www.linkedin.com/in/leandrolopes86/">Leandro Lopes</a>, <a href="https://www.linkedin.com/in/thalis-ruan-b8a199130/">Thalis Ruan</a></li>
+  <li>UX: <a href="https://www.linkedin.com/in/jessikatayza/">Jéssika Mendes</a>, <a href="https://www.linkedin.com/in/diogocassel/">DiogoCassel</a></li>
+  <li>Frontend: <a href="https://www.linkedin.com/in/brunos-brito/">Bruno Brito</a>, <a href="https://www.linkedin.com/in/daniel-nogueira-496813222/">Daniel Nogueira</a></li>
+  <li>Backend: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a>, <a href="https://www.linkedin.com/in/evel-ortega-74a390224/">Evel Ortega</a></li>
+</ul> 
+  
+  
+  
+  
+  
+  
+  
+  
 
 </details>
 <hr/>
 
-<details>
-<summary>PESQUISA</Summary>
+<h6>PESQUISA</h6>
 
 <details>
+  <summary>Dinâmicas do terceiro setor no Brasil</summary>
+  </br>
+  <p align="justify">
+  De acordo com a pesquisa do <a href="https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/13524-estudo-inedito-traca-o-perfil-das-oscs-criadas-em-120-anos-no-brasil">IPEA</a> publicado em 13/02/2023. Conclui que é de extrema necessidade desenvolver soluções que aumente a confiança, a tranparência e a legitimidade das OSCs. E revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas. Veja o texto de conclusão.
+  </p>
 
-<summary>Dinâmicas do terceiro setor no Brasil</Summary>
-<details>
+  <p align="justify">
 
-<summary>Resumo</Summary>
+  <cite style="background:#0002">
+  A análise conclui ser necessário aumentar a confiança, a transparência e a legitimidade das OSCs na sociedade, revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas, compreender melhor como as OSCs contribuem para fortalecer a democracia e qual papel deveria ser desempenhado por elas na formação da agenda de políticas públicas do país.
+  </cite>
 
-De acordo com a pesquisa do [IPEA](https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/13524-estudo-inedito-traca-o-perfil-das-oscs-criadas-em-120-anos-no-brasil) publicado em 13/02/2023. Conclui que é de extrema necessidade desenvolver soluções que aumente a confiança, a tranparência e a legitimidade das OSCs. E revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas. Veja o texto de conclusão.
+  </p>
 
->A análise conclui ser necessário aumentar a confiança, a transparência e a legitimidade das OSCs na sociedade, revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas, compreender melhor como as OSCs contribuem para fortalecer a democracia e qual papel deveria ser desempenhado por elas na formação da agenda de políticas públicas do país.
+  Fonte: <a href="https://www.ipea.gov.br/portal/publicacao-item?id=8e5a1f3e-de94-4194-be1d-f8b24e7f2a6a">Dinâmicas do terceiro setor no Brasil, Mello, Janine; Pereira, Ana Camila Ribeiro, 2022</a>
 
-Fonte: [Dinâmicas do terceiro setor no Brasil, Mello, Janine; Pereira, Ana Camila Ribeiro, 2022](https://www.ipea.gov.br/portal/publicacao-item?id=8e5a1f3e-de94-4194-be1d-f8b24e7f2a6a)
+  <h6>DEMANDAS</h6>
 
-</details>
-<details>
+  1. Quais fatores contribuem para o seu surgimento e para o encerramento de suas atividades? 
+  Como esforços de institucionalização e formalização dessas organizações se alteraram ao longo do tempo?
+  Quais temas ganharam ou perderam relevância em diferentes contextos sociais, econômicos e políticos?
 
-<summary>Problematicas</Summary>
-
-- 1
->Quais fatores contribuem para o seu surgimento e para o encerramento de suas atividades? 
->Como esforços de institucionalização e formalização dessas organizações se alteraram ao longo do tempo?
->Quais temas ganharam ou perderam relevância em diferentes contextos sociais, econômicos e políticos?
-
-- 2
->Essa característica da base de dados disponibilizada pela SRFB impõe alguns limites a análises da serie temporal exatamente por não permitir a visualização das alterações de categorização ou classificação das variáveis que caracterizam cada uma das entidades. 
->Não é possível observar, por exemplo, se determinada OSC já esteve classificada em outra natureza jurídica ou área de atuação distinta da classificação atual. Nesse sentido, todos os dados de perfil apresentados na análise se referem à última atualização contida como referência para cada uma das OSCs presentes na base.
+  1. Essa característica da base de dados disponibilizada pela SRFB impõe alguns limites a análises da serie temporal exatamente por não permitir a visualização das alterações de categorização ou classificação das variáveis que caracterizam cada uma das entidades. Não é possível observar, por exemplo, se determinada OSC já esteve classificada em outra natureza jurídica ou área de atuação distinta da classificação atual. Nesse sentido, todos os dados de perfil apresentados na análise se referem à última atualização contida como referência para cada uma das OSCs presentes na base.
 </details>
 
+<details>
 
-</details>
+<summary>Mapa das OSCs</Summary>
+
+  <a href="https://mapaosc.ipea.gov.br/video/12/live-sua-organizacao-no-mapa-das-osc">Live - Mapa das OSCs</a>
+
 </details>
 
 
