@@ -304,11 +304,36 @@ Organizaçãos da Sociedade Civil (OSC)
 <details>
 <summary>PESQUISA</Summary>
 
+<details>
+
+<summary>Dinâmicas do terceiro setor no Brasil</Summary>
+<details>
+
+<summary>Resumo</Summary>
+
 De acordo com a pesquisa do [IPEA](https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/13524-estudo-inedito-traca-o-perfil-das-oscs-criadas-em-120-anos-no-brasil) publicado em 13/02/2023. Conclui que é de extrema necessidade desenvolver soluções que aumente a confiança, a tranparência e a legitimidade das OSCs. E revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas. Veja o texto de conclusão.
 
 >A análise conclui ser necessário aumentar a confiança, a transparência e a legitimidade das OSCs na sociedade, revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas, compreender melhor como as OSCs contribuem para fortalecer a democracia e qual papel deveria ser desempenhado por elas na formação da agenda de políticas públicas do país.
 
 Fonte: [Dinâmicas do terceiro setor no Brasil, Mello, Janine; Pereira, Ana Camila Ribeiro, 2022](https://www.ipea.gov.br/portal/publicacao-item?id=8e5a1f3e-de94-4194-be1d-f8b24e7f2a6a)
+
+</details>
+<details>
+
+<summary>Problematicas</Summary>
+
+- 1
+>Quais fatores contribuem para o seu surgimento e para o encerramento de suas atividades? 
+>Como esforços de institucionalização e formalização dessas organizações se alteraram ao longo do tempo?
+>Quais temas ganharam ou perderam relevância em diferentes contextos sociais, econômicos e políticos?
+
+- 2
+>Essa característica da base de dados disponibilizada pela SRFB impõe alguns limites a análises da serie temporal exatamente por não permitir a visualização das alterações de categorização ou classificação das variáveis que caracterizam cada uma das entidades. 
+>Não é possível observar, por exemplo, se determinada OSC já esteve classificada em outra natureza jurídica ou área de atuação distinta da classificação atual. Nesse sentido, todos os dados de perfil apresentados na análise se referem à última atualização contida como referência para cada uma das OSCs presentes na base.
+</details>
+
+
+</details>
 </details>
 
 
