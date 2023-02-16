@@ -298,14 +298,6 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
   <li>Frontend: <a href="https://www.linkedin.com/in/brunos-brito/">Bruno Brito</a>, <a href="https://www.linkedin.com/in/daniel-nogueira-496813222/">Daniel Nogueira</a></li>
   <li>Backend: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a>, <a href="https://www.linkedin.com/in/evel-ortega-74a390224/">Evel Ortega</a></li>
 </ul> 
-  
-  
-  
-  
-  
-  
-  
-  
 
 </details>
 <hr/>
@@ -314,7 +306,6 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 
 <details>
   <summary>Dinâmicas do terceiro setor no Brasil</summary>
-  </br>
   <p align="justify">
   De acordo com a pesquisa do <a href="https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/13524-estudo-inedito-traca-o-perfil-das-oscs-criadas-em-120-anos-no-brasil">IPEA</a> publicado em 13/02/2023. Conclui que é de extrema necessidade desenvolver soluções que aumente a confiança, a tranparência e a legitimidade das OSCs. E revalorizar as potencialidades das interações entre Estado e OSCs na execução de políticas públicas. Veja o texto de conclusão.
   </p>
