@@ -346,10 +346,12 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 
 <details>
 
-<summary>Publicações</Summary>
-
-  <a href="./docs/4358-manual-do-terceiro-setor-2022.pdf">Manual do Terceiro Setor</a>
-
+<summary>Referências</Summary>
+  <ul>
+    <li><a href="./docs/4358-manual-do-terceiro-setor-2022.pdf">Manual do Terceiro Setor</a></li>
+    <li><a href="./docs/guia-de-gestao-para-quem-dirige-OSC_0.pdf">Gestão para OSC</a></li>
+    <li><a href="./docs/td_dinamica_terceiro_setor_publicação_preliminar.pdf">Dinâmica do terceiro setor</a></li>
+  </ul>
 </details>
 
 
