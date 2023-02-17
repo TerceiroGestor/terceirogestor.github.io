@@ -1,4 +1,7 @@
-<h2>Social ERP/CRM</h2>
+<div align="center">
+<img width="200" src="https://avatars.githubusercontent.com/u/125568791?s=200&v=4"></img>
+</div>
+
 <h6>Descrição do projeto:</h6>
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
@@ -338,6 +341,14 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 <summary>Mapa das OSCs</Summary>
 
   <a href="https://mapaosc.ipea.gov.br/video/12/live-sua-organizacao-no-mapa-das-osc">Live - Mapa das OSCs</a>
+
+</details>
+
+<details>
+
+<summary>Publicações</Summary>
+
+  <a href="./docs/4358-manual-do-terceiro-setor-2022.pdf">Manual do Terceiro Setor</a>
 
 </details>
 
