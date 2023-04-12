@@ -14,7 +14,7 @@ As instituições sociais carecem de um sistema que o acompanhe desde sua abertu
 As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 </p>
 
-<a href="https://www.gov.br/receitafederal.login/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc">Saiba Mais</a>
+<a href="https://www.gov.br/receitafederalsimples/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/extensao/osc">Saiba Mais</a>
 
 <hr/>
 
