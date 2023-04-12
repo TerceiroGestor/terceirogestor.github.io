@@ -348,9 +348,24 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 
 <summary>Referências</Summary>
   <ul>
+  <hr>
     <li><a href="./docs/4358-manual-do-terceiro-setor-2022.pdf">Manual do Terceiro Setor</a></li>
     <li><a href="./docs/guia-de-gestao-para-quem-dirige-OSC_0.PDF">Gestão para OSC</a></li>
     <li><a href="./docs/td_dinamica_terceiro_setor_publicação_preliminar.pdf">Dinâmica do terceiro setor</a></li>
+    <li><a href="./docs/SCFV - Serviço de Convivência e Fortalecimento de Vínculos.pdf">SCFV - Serviço de Convivência e Fortalecimento de Vínculos</a></li>
+    <hr>
+    <li>
+    <a href="https://direitocoletivo.org.br/propostas-de-como-tornar-a-gestao-do-terceiro-setor-mais-transparente-e-eficiente/?gclid=EAIaIQobChMI6ueYwcik_gIVAuFcCh30bwelEAAYASAAEgLHJvD_BwE">Propostas de como tornar a gestão do Terceiro Setor mais transparente e eficiente
+    </a>
+    </li>
+    <li>
+    <a href="https://www.idis.org.br/">IDIS
+    </a>
+    </li>
+    <li>
+    <a href="https://etransparente.org/">eTransparente
+    </a>
+    </li>
   </ul>
 </details>
 
