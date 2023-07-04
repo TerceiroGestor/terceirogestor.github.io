@@ -9,7 +9,6 @@ import Team from '../components/Team';
 const AppRoutes = () => {
     return (
         <Router>
-            <Navbar />
             <Routes>
                 <Route path="/" Component={Home} />
                 <Route path="/about" Component={About} />
