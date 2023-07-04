@@ -10,13 +10,13 @@ const Index = () => {
                 <div className="collapse navbar-collapse" id="navbarButtonsExample">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link to="/" className="nav-link">Home</Link>
+                            <Link to="/" className="nav-link">Início</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/about" className="nav-link">About</Link>
+                            <Link to="/about" className="nav-link">Sobre</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/team" className="nav-link">Team</Link>
+                            <Link to="/team" className="nav-link">Equipe</Link>
                         </li>
                     </ul>
                 </div>
